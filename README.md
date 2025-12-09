@@ -24,12 +24,9 @@
 
 ## ⚡ Estadísticas del Pulpo
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenase0077&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenase0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lenase0077)](https://git.io/streak-stats)
+
 
 ---
 
