@@ -1,8 +1,8 @@
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hola,+soy+Leandro+Serrano;El+%22Pulpo+Informático%22+🐙;Dev+C%2B%2B+%7C+React+%7C+Data;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hola,+soy+Leandro+Serrano;El+Pulpo+Informatico;Dev+C%2B%2B+%7C+React+%7C+Data;Siempre+aprendiendo" alt="Typing SVG" />
+</a>
 
   <h3>💻 Desarrollador Full Stack & Data Enthusiast</h3>
   
