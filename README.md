@@ -10,6 +10,8 @@
     <em>"Como un pulpo, tengo un tentáculo en cada tecnología: desde el bajo nivel con C++ hasta la visualización de datos con PowerBI."</em>
   </p>
 
+
+
   <p>
     <a href="https://linkedin.com/in/leandro-serrano" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,6 +34,15 @@ Acá es donde la magia ocurre. Una mezcla de lógica dura, creatividad web y an�
 | [**📊 PowerBI Analysis**](https://github.com/lenase0077/Attempt-Report-PowerBI-analysis) | Reportes interactivos y Business Intelligence. Transformando datos crudos en decisiones. | `PowerBI` `Data` |
 | [**☕ Coffee Style**](https://github.com/lenase0077/Coffee-style) | Diseño web estético y responsivo. Porque el código también entra por los ojos. | `CSS` `HTML` |
 
+
+<h3 align="center">🛠️ Tecnologías & Herramientas</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,bootstrap&theme=dark" alt="Lenguajes" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,sklearn,tensorflow&theme=dark" alt="Herramientas" />
+</div>
 ---
 
 ## ⚡ Estadísticas del Pulpo
