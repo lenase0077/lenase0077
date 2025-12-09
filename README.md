@@ -57,7 +57,7 @@ Acá es donde la magia ocurre. Una mezcla de lógica dura, creatividad web y an�
 
 ---
 
-## 🐍 Contribuciones (La Viborita)
+## 🐍 Contribuciones
 
 <div align="center">
   <img src="https://github.com/lenase0077/lenase0077/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
