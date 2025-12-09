@@ -22,14 +22,13 @@
 
 ---
 
-## 🛠️ Arsenal Tecnológico (Mis Tentáculos)
+## ⚡ Estadísticas del Pulpo
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,vite,html,css,bootstrap&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,sklearn,tensorflow,powerbi&theme=dark" />
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenase0077&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenase0077&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
 </div>
 
 ---
@@ -50,10 +49,8 @@ Acá es donde la magia ocurre. Una mezcla de lógica dura, creatividad web y an�
 
 ## ⚡ Estadísticas del Pulpo
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenase0077&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenase0077&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" width="48%" />
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lenase0077)](https://git.io/streak-stats)
 
 ---
 
