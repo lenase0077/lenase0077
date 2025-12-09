@@ -25,8 +25,7 @@
 ## ⚡ Estadísticas del Pulpo
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lenase0077&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-fawn-theta.vercel.app?user=lenase0077&theme=nightfox&hide_border=true" alt="GitHub Streak" /></a>
 ---
 
 ## 🚀 Proyectos Destacados
@@ -45,8 +44,11 @@ Acá es donde la magia ocurre. Una mezcla de lógica dura, creatividad web y an�
 
 ## ⚡ Estadísticas del Pulpo
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lenase0077)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-fawn-theta.vercel.app?user=lenase0077&theme=nightfox&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
