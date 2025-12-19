@@ -10,13 +10,11 @@
     <em>"Como un pulpo, tengo un tentáculo en cada tecnología: desde el bajo nivel con C++ hasta la visualización de datos con PowerBI."</em>
   </p>
 
-
-
   <p>
     <a href="https://linkedin.com/in/leandro-serrano" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:tuemail@gmail.com">
+    <a href="mailto:leandroserrano777@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
@@ -29,6 +27,7 @@ Acá es donde la magia ocurre. Una mezcla de lógica dura, creatividad web y an�
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :---: |
 | [**🎓 Proyecto Hackaton**](https://github.com/lenase0077/Proyecto-Hackaton) | **UTN Pathfinder:** Plataforma interactiva para visualizar correlatividades y planificar la carrera universitaria. Ganador moral de nuestros corazones. | `React` `Vite` `JS` |
+| [**🍅 Pomodoro Logger**](https://github.com/lenase0077/Pomodoro-Logger) | **Productividad Pura:** Timer minimalista con checklist integrada. Persistencia de datos local y modo oscuro/claro. Sin distracciones. | `React` `Vite` `JS` |
 | [**⚔️ Enfrentados**](https://github.com/lenase0077/Enfrentados) | Desarrollo de lógica compleja y estructuras de datos. El poder del bajo nivel en acción. | `C++` |
 | [**🤖 Machine Learning**](https://github.com/lenase0077/Proyectos-Machine-Learning) | Colección de modelos predictivos y exploraciones en ciencia de datos. Entrenando a la máquina. | `Python` `Sklearn` |
 | [**📊 PowerBI Analysis**](https://github.com/lenase0077/Attempt-Report-PowerBI-analysis) | Reportes interactivos y Business Intelligence. Transformando datos crudos en decisiones. | `PowerBI` `Data` |
