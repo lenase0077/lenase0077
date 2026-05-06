@@ -42,11 +42,7 @@ Acá es donde la magia ocurre. Una mezcla de lógica dura, creatividad web y an�
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,sklearn,tensorflow&theme=dark" alt="Herramientas" />
 </div>
----
 
-
-
----
 
 ## 🐍 Contribuciones
 
